@@ -1,0 +1,25 @@
+main {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+img {
+  max-width: 33vw;
+}
+
+a, h1, p {
+  font-family: 'Arimo', sans-serif;
+}
+
+p{
+
+}
+
+h1{
+  text-transform: uppercase;
+}
+
+.email {
+  text-transform: uppercase;
+}
